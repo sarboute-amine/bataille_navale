@@ -16,7 +16,7 @@ public class Grille {
 			}
 			
 		}
-		
+	 
 		//constuction de la grille
 	void construire_grille(){
 		for(i=0; i<10; i++){
